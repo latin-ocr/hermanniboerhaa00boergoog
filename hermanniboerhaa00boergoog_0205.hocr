@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./hermanniboerhaa00boergoog_0205.png"; bbox 0 0 1890 3436; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 66 2011 698 2452">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 66 2011 698 2452">
+     <span class='ocr_line' id='line_1_1' title="bbox 170 2011 353 2102; baseline 0 -24"><span class='ocrx_word' id='word_1_1' title='bbox 170 2011 353 2102; x_wconf 80' lang='lat' dir='ltr'><em>Becabungae.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 173 2089 698 2186; baseline 0.011 -24"><span class='ocrx_word' id='word_1_2' title='bbox 173 2089 385 2186; x_wconf 59' lang='lat' dir='ltr'><em>Trifialaquat.</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 425 2103 575 2185; x_wconf 64' lang='lat' dir='ltr'><em>mm.</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 695 2105 698 2111; x_wconf 76' lang='grc'><em>“</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 176 2180 368 2257; baseline 0.031 -13"><span class='ocrx_word' id='word_1_5' title='bbox 176 2182 240 2251; x_wconf 83' lang='lat' dir='ltr'><em>Sm&#39;</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 256 2180 368 2257; x_wconf 71' lang='lat' dir='ltr'><em>Ladis.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 66 2263 674 2363; baseline 0.003 -33"><span class='ocrx_word' id='word_1_7' title='bbox 66 2283 74 2307; x_wconf 62' lang='lat'>¹</span> <span class='ocrx_word' id='word_1_8' title='bbox 175 2263 278 2342; x_wconf 68' lang='lat' dir='ltr'><em>Laetis</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 292 2267 440 2358; x_wconf 59' lang='lat' dir='ltr'><em>Myrai.</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 480 2291 538 2343; x_wconf 78' lang='lat' dir='ltr'><em>ana</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 549 2268 626 2363; x_wconf 68' lang='lat' dir='ltr'><em>pins.</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 641 2269 674 2360; x_wconf 79' lang='lat' dir='ltr'><em>ij.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 257 2349 505 2452; baseline 0.024 -19"><span class='ocrx_word' id='word_1_13' title='bbox 257 2350 294 2426; x_wconf 80' lang='lat' dir='ltr'><em>F·</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 307 2349 505 2452; x_wconf 41' lang='grc' dir='ltr'><em>ΝΜ,</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 950 3436">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 950 3436">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 950 3436; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 950 3436; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
